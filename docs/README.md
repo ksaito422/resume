@@ -13,7 +13,7 @@
 
 - Laravel, Node.js での サーバーサイド開発・設計
 - ReactNative でのクロスプラットフォーム開発
-- AWS / Terraform でのインフラ構築・設計, ログ収集基盤の構築(EC2, ECS, CloudFront, S3 などの利用経験)
+- AWS / Terraform でのインフラ構築・設計、 ログ収集基盤の構築（EC2, ECS, CloudFront, S3 などの利用経験）
 - GitHubActions, Gitlab-ci による CI/CD パイプラインの構築
 
 ## 技術スタック
@@ -51,7 +51,7 @@
 
 ## 資格
 
-- 基本情報技術者(2019/11)
+- 基本情報技術者（2019/11）
 - AWS 認定 SAA(2021/10)
 - AWS 認定 SAP(2022/04)
 - AWS 認定 SCS(2022/05)
