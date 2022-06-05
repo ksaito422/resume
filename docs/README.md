@@ -39,7 +39,7 @@
 ### その他
 
 <p>
-  <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=plastic">
+  <img src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazon-aws&style=plastic">
   <img src="https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=plastic">
   <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
   <img src="https://img.shields.io/badge/-NeoVim-3E93D3.svg?logo=Neovim&style=plastic">
