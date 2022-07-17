@@ -13,7 +13,8 @@
 
 - Laravel, Node.js での サーバーサイド開発・設計
 - ReactNative でのクロスプラットフォーム開発
-- AWS / Terraform でのインフラ構築・設計、ログ収集基盤の構築（EC2, ECS, RDS, CloudFront, S3, WAF, ALB, KinesisFirehose, SES, SNS）
+- AWS / Terraform でのインフラ構築・設計、ログ収集基盤の構築
+  - EC2, ECS, RDS, CloudFront, S3, WAF, ALB, KinesisFirehose, SES, SNS
 - GitHubActions, Gitlab-ci による CI/CD パイプラインの構築
 
 ## 技術スタック
