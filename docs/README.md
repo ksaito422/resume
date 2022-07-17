@@ -13,7 +13,7 @@
 
 - Laravel, Node.js での サーバーサイド開発・設計
 - ReactNative でのクロスプラットフォーム開発
-- AWS / Terraform でのインフラ構築・設計、 ログ収集基盤の構築（EC2, ECS, CloudFront, S3 などの利用経験）
+- AWS / Terraform でのインフラ構築・設計、ログ収集基盤の構築（EC2, ECS, RDS, CloudFront, S3, WAF, ALB, KinesisFirehose, SES, SNS）
 - GitHubActions, Gitlab-ci による CI/CD パイプラインの構築
 
 ## 技術スタック
@@ -48,6 +48,7 @@
 ## アウトプット
 
 - [Tech blog](https://blog.saito.page/)
+- [Github](https://github.com/saitooooooo)
 
 ## 資格
 
@@ -66,9 +67,9 @@
   - 内容
     - スマホアプリから利用するバックエンド側の開発を担当
   - 業務内容
-    - Web API・管理画面の開発、バックエンドチームのリーダー、API 設計、DB 設計
+    - バックエンド開発チームのリーダー、Web API(Rest)・管理画面の開発、API 設計、DB 設計、Stripe 決済の導入、Elasticache for Redis でランキングボードの実装
   - 使用技術
-    - Laravel, Docker, MySQL
+    - Laravel, Docker, MySQL, AWS
 
 - ブロックチェーンアプリの開発
 
@@ -101,9 +102,9 @@
 
 ## 意欲・興味
 
-- バックエンド・インフラ分野の技術に対して興味関心が強い
+- バックエンド・インフラ（パブリッククラウド）領域の技術に対して興味関心が強い
 - ナレッジの共有を積極的に行い、チーム全体のスキルアップに貢献したいと思っています
 
 ## 希望条件
 
-- 地方在住のため関東圏の場合、リモートワークでの勤務を希望します（月数回の出社等は可）
+- 地方在住のため関東圏の場合、リモートワークでの勤務を希望します

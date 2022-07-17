@@ -107,7 +107,7 @@
       "ja-space-after-question": false,
       "ja-no-space-between-full-width": false
     },
-    "spellcheck-tech-word": true,
+    "spellcheck-tech-word": false,
     "period-in-list-item": {
       "periodMark": "",
       "periodMarks": [
