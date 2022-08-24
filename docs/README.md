@@ -15,7 +15,7 @@
 - ReactNative でのクロスプラットフォーム開発
 - AWS / Terraform でのインフラ構築・設計、ログ収集基盤の構築
   - EC2, ECS, RDS, CloudFront, S3, WAF, ALB, KinesisFirehose, SES, SNS
-- GitHubActions, Gitlab-ci による CI/CD パイプラインの構築
+- GitHub Actions, Gitlab-CI による CI/CD パイプラインの構築
 
 ## 技術スタック
 
@@ -81,6 +81,17 @@
   - 使用技術
     - ReactNative, JavaScript, Recoil(状態管理）, Firebase auth/プッシュ通知/ダイナミックリンク
 
+- 業務用 Android ハンディアプリの開発
+
+  - 内容
+    - 在庫・売上管理するための業務アプリの開発
+  - 業務内容
+    - Android アプリの開発
+  - 使用技術
+    - Kotlin, SQLite, Hilt(DI)
+  - 備考
+    - 2 ヶ月のスポットでの参画のため、経験としては浅い
+
 - オーナーサイトのインフラ構築
   - 内容
     - Web アプリのインフラ構築。ログ収集基盤、監視システムの構築
@@ -105,6 +116,7 @@
 
 - バックエンド・インフラ（パブリッククラウド）領域の技術に対して興味関心が強い
 - ナレッジの共有を積極的に行い、チーム全体のスキルアップに貢献したいと思っています
+- 1->10 のプロダクトの成長の部分に対して興味関心が強い
 
 ## 希望条件
 
