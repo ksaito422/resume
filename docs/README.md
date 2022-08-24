@@ -11,11 +11,11 @@
 
 ## 保有スキル
 
-- Laravel, Node.js での サーバーサイド開発・設計
+- Laravel での サーバーサイド開発・設計
 - ReactNative でのクロスプラットフォーム開発
 - AWS / Terraform でのインフラ構築・設計、ログ収集基盤の構築
   - EC2, ECS, RDS, CloudFront, S3, WAF, ALB, KinesisFirehose, SES, SNS
-- GitHub Actions, Gitlab-CI による CI/CD パイプラインの構築
+- GitHub Actions, GitLab-CI による CI/CD パイプラインの構築
 
 ## 技術スタック
 
