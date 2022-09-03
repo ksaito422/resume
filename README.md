@@ -47,3 +47,7 @@ Automatically generate issues every three months with GitHub Actions Schedules t
 
 To change the duration or stop the job, edit `.github/workflows/create-issue.yml`.  
 To change the issue contents, edit `.github/ISSUE_TEMPLATE.md`.
+
+### Other
+
+[skill badge](https://qiita.com/s-yoshiki/items/436bbe1f7160b610b05c)
