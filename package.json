@@ -4,7 +4,9 @@
   "description": "saito keitaの職務経歴書",
   "scripts": {
     "lint": "textlint docs/README.md",
-    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
+    "lint:apply": "textlint docs/職務経歴書.md",
+    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js",
+    "build:apply": "md-to-pdf docs/職務経歴書.md --config-file ./pdf-configs/config.js"
   },
   "keywords": [],
   "devDependencies": {
