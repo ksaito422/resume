@@ -18,7 +18,7 @@
 - インフラ設計・構築・ログ収集基盤の構築
   - AWS, Terraform あわせて半年
   - AWS の利用サービス
-    - EC2, ECS(Fargate), ECR, RDS(MySQL, Aurora), CloudFront, S3, WAF, Route53, ALB, AutoScaling, Firehose, SES, SNS, AppSync, DynamoDB
+    - EC2, ECS(Fargate), ECR, RDS(MySQL, Aurora), CloudFront, S3, WAF, Route53, ALB, AutoScaling, Firehose, SES, SNS
 - 医療事務
   - FileMaker や VBA での院内システム開発・運用
   - 診療報酬請求や医療統計の作成
@@ -87,7 +87,7 @@
   - Firehose, CloudWatchLogsSubscriptionFilter で Datadog へのログ配信ストリームの構築
   - Datadog でメトリクスやログレベルによるアラートの構築
 - 成果や意識した点
-  - IAM の過剰な権限付与を防ぐために、最小権限で IAM を作成し、開発速度を犠牲に最小権限の原則に則って、クラウドのセキュリティ向上に努めたこと
+  - IAM の過剰な権限付与を防ぐために、最小権限で IAM を作成し、開発速度と引き換えに最小権限の原則に則って、クラウドのセキュリティ向上に努めたこと
 
 #### 不動産のマッチングアプリ開発
 
@@ -99,7 +99,7 @@
   - バックエンドの CD として、GitLab-CI + CodeDeploy で EC2 への自動デプロイの実装
   - フロントエンドの CI/CD として、GitLab-CI で ビルドと S3 へのファイルアップロード、CloudFront のキャッシュ削除を実装
 - 成果や意識した点
-  - プロジェクト終盤での参画で検証環境へ手動デプロイを行って開発速度に影響が出ていたため、自動デプロイのパイプライン構築を提案・実装し、属人化をなくし開発速度の向上に貢献したこと
+  - プロジェクト終盤に自分が参画し、AWS に手動デプロイを行って開発速度に影響が出ていたため、自動デプロイのパイプライン構築を提案・実装し、属人化をなくし開発速度の向上に貢献したこと
 
 #### NFT 販売プラットフォームのアプリ開発
 
