@@ -1,6 +1,6 @@
 # 職務経歴書
 
-<p class="updated-date">最終更新: 2022/09/19</p>
+<p class="updated-date">最終更新: 2022/11/05</p>
 
 ## 基本情報
 
@@ -14,7 +14,7 @@
 ## 職務経歴(概要)
 
 - Web・スマホアプリケーションの開発
-  - PHP, Laravel, ReactNative あわせて 1 年
+  - Go, PHP, Laravel, ReactNative あわせて 1 年半
 - インフラ設計・構築・ログ収集基盤の構築
   - AWS, Terraform あわせて半年
   - AWS の利用サービス
@@ -34,6 +34,7 @@
 ### 言語
 
 <p>
+  <img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=plastic">
   <img src="https://img.shields.io/badge/-PHP_v7.2~8.0-777BB4.svg?logo=php&style=plastic">
   <img src="https://img.shields.io/badge/-TypeScript_v3.8~4.1-007ACC.svg?logo=typescript&style=plastic">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=plastic">
@@ -113,7 +114,7 @@
 - 苦労した点
   - Metamask 連携の実装で自分の知識不足や社内に相談できる方が不在のため、実装に工数を要したが、ライブラリのドキュメントなどを参考に自己解決し イーサリアムに関する知見を得られたこと
 
-#### ランニングアプリの開発
+#### スポーツ関連のスマホアプリ開発
 
 - 担当業務
   - バックエンド側の開発（Web API・管理画面）を担当
@@ -139,7 +140,9 @@
 ## 保有資格
 
 - 基本情報技術者（2019/11）
-- aws certified Solutions Architect Associate（2021/10）
-- aws certified Solutions Architect Professional（2022/04）
-- aws certified Security Specialty（2022/05）
-- aws certified Database Specialty（2022/06）
+- AWS Certified Solutions Architect Associate（2021/10）
+- AWS Certified Solutions Architect Professional（2022/04）
+- AWS Certified Security Specialty（2022/05）
+- AWS Certified Database Specialty（2022/06）
+- AWS Certified Developer Associate（2022/10）
+- AWS Certified SysOps Administrator Associate（2022/11）
