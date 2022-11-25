@@ -4,7 +4,7 @@ https://img.shields.io/badge/redash-v4.0.1-ff7964.svg?style=for-the-badge
 
 ## Data
 
-- [GitHub Pages]()
+- [GitHub Pages](https://resume.saito.page/)
 - [PDF](https://github.com/saitooooooo/resume/releases)
 - [File]()
 
