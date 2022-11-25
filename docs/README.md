@@ -18,7 +18,8 @@
 - インフラ設計・構築・ログ収集基盤の構築
   - AWS, Terraform あわせて半年
   - AWS の利用サービス（業務利用）
-    - EC2, ECS(Fargate), ECR, RDS(MySQL, Aurora), CloudFront, S3, WAF, Route53, ALB, AutoScaling, KinesisDataFirehose, SES, SNS, CloudWatch
+    - EC2, ECS(Fargate), ECR, RDS(MySQL, Aurora), CloudFront, S3, WAF, Route53
+  - ALB, AutoScaling, KinesisDataFirehose, SES, SNS, CloudWatch
 - 医療事務
   - FileMaker や VBA での院内システム開発・運用
   - 診療報酬請求や医療統計の作成
@@ -98,7 +99,7 @@
   - Firehose, CloudWatchLogsSubscriptionFilter で Datadog へのログ配信ストリームの構築
   - Datadog でメトリクスやログレベルによるアラートの構築
 - 成果や意識した点
-  - IAM の過剰な権限付与を防ぐために、最小権限で IAM を作成し、開発速度と引き換えに最小権限の原則に則って、クラウドのセキュリティ向上に努めたこと
+  - IAM の過剰な権限付与を防ぐために最小権限で IAM を作成し、開発速度と引き換えに最小権限の原則に則って、クラウドのセキュリティ向上に努めたこと
 
 #### 不動産のマッチングアプリ開発
 
@@ -122,7 +123,7 @@
 - 成果や意識した点
   - バック・フロントの担当領域が不明瞭な機能（Stripe, Firebase）の実装時にチーム間で認識齟齬が発生しないように、シーケンス図を作成して、責務を明確にし手戻りの発生を削減したこと
 - 苦労した点
-  - Metamask 連携の実装で自分の知識不足や社内に相談できる方が不在のため、実装に工数を要したが、ライブラリのドキュメントなどを参考に自己解決し イーサリアムに関する知見を得られたこと
+  - Metamask 連携の実装で自分の知識不足や社内に相談できるエンジニアが不在のため、実装に工数を要したが、ライブラリのドキュメントなどを参考に自己解決し イーサリアムに関する知見を得られたこと
 
 #### スポーツ関連のスマホアプリ開発
 
