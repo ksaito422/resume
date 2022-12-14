@@ -1,6 +1,6 @@
 # 職務経歴書
 
-<p class="updated-date">最終更新: 2022/12/03</p>
+<p class="updated-date">最終更新: 2022/12/15</p>
 
 ## 基本情報
 
