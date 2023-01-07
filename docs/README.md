@@ -19,7 +19,7 @@
   - AWS, Terraform あわせて半年
   - AWS の利用サービス（業務利用）
     - EC2, ECS(Fargate), ECR, RDS(MySQL, Aurora), CloudFront, S3, WAF, Route53
-  	- ALB, AutoScaling, KinesisDataFirehose, SES, SNS, CloudWatch
+    - ALB, AutoScaling, KinesisDataFirehose, SES, SNS, CloudWatch
 - 医療事務
   - FileMaker や VBA での院内システム開発・運用
   - 診療報酬請求や医療統計の作成
