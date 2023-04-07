@@ -67,7 +67,7 @@
 
 - [Tech blog](https://blog.saito.page/)
 - [Zenn](https://zenn.dev/saito9)
-- [GitHub](https://github.com/saitooooooo)
+- [GitHub](https://github.com/ksaito422)
 
 ## 職務経歴(詳細)
 
