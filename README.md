@@ -1,4 +1,4 @@
-# saitokeita の職務経歴書
+# 職務経歴書
 
 https://img.shields.io/badge/redash-v4.0.1-ff7964.svg?style=for-the-badge
 
