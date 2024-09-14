@@ -1,4 +1,5 @@
 module.exports = {
+  dest: './docs/resume.pdf',
   stylesheet: './pdf-configs/style.css',
   body_class: 'markdown-body',
   marked_options: {
